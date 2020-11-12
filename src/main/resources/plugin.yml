@@ -1,0 +1,14 @@
+name: Trello
+version: ${project.version}
+main: me.jack.trello.trello.Trello
+api-version: 1.16
+commands:
+  trelloGet:
+    usage: /trelloGet
+    description: Get all trello cards
+  trelloPost:
+    usage: /trelloPost <task description> <task priority (1,2,3,4)>
+    description: Create a new trello card
+  trelloDelete:
+    usage: /trelloDelete <keyword>
+    description: Delete a trello card
