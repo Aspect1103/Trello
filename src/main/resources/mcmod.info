@@ -1,0 +1,16 @@
+[
+{
+  "modid": "trelloforge",
+  "name": "Trello Forge",
+  "description": "Access a trello board from within minecraft",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Jack"],
+  "credits": "Me because I'm the best",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
